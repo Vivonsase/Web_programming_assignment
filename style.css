@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(background1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    background-color: rgba(234, 14, 219, 0.062);
+    color: rgb(15, 28, 199);
+}
+p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: rgb(86, 48, 152);
+    font-family: 'Times New Roman', Times, serif;
+}
